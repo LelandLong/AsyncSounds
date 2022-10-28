@@ -2,11 +2,11 @@
 
 #### A FileMaker Pro Add-On
 
-Play sounds inside FileMaker Pro asynconously. No containers. No UI Controls. Just raw sounds.
+Play sounds inside FileMaker Pro asynchronously. No containers. No UI Controls. Just raw sounds.
 
 #### Points To Ponder
 
-Because these sounds can be played asyncronously, they can overlap each other as well.
+Because these sounds can be played asynchronously, they can overlap each other as well.
 
 3 sound files are included in the Add-on for you to try out.
 
