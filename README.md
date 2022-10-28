@@ -45,6 +45,8 @@ Because these sounds can be played asyncronously, they can overlap each other as
 
 4. play the sound
 
+5. once the sound is encoded, its just text/string data, so the file in the container is no longer needed. This encoded sound data can now just be stored in a variable inside a script if you wish. The Table, Field(s), and Encode script are only needed for this demo file's UI and to create the encoded data.
+
 
 #### Dependancies
 
