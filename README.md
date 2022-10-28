@@ -8,13 +8,7 @@ Play sounds inside FileMaker Pro asynconously. No containers. No UI Controls. Ju
 
 Because these sounds can be played asyncronously, they can overlap each other as well.
 
-5 sound files are included in the Add-on to try out.
-
-To add your own sounds:
-• create a new, blank record, and drop your sound file into the "incoming" container (on the far left)
-• tap the "Encode" button
-• varify that the extension was correctly calculated (currently supports "wav" & "m4v" files, but if you add more, just adjust the calculation Case statement)
-• play the sound
+3 sound files are included in the Add-on for you to try out.
 
 ![Overview image](images/Overview.png)
 
@@ -38,8 +32,18 @@ To add your own sounds:
 
 9. Add-On has now been installed, adding the following:
   * 3 new Scripts
-  * "AsyncSounds" Table with 5 Records
+  * "AsyncSounds" Table with 3 Records
   * 1 new Layout: "AsyncSounds"
+
+#### Usage
+
+1. create a new, blank record, and drop your sound file into the "incoming" container (on the far left)
+
+2. tap the "Encode" button
+
+3. varify that the extension was correctly calculated (currently supports "wav" & "m4v" files, but if you add more, just adjust the calculation Case statement)
+
+4. play the sound
 
 
 #### Dependancies
